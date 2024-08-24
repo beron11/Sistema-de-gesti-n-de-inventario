@@ -1,4 +1,5 @@
 # bodega.py
+#.
 class Bodega:
     def __init__(self, nombre, ubicacion, capacidad_maxima):
         self.nombre = nombre
