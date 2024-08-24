@@ -103,6 +103,9 @@ El diseño del sistema está representado mediante un **Diagrama de Clases UML**
 > **Herramienta Utilizada:** [eraser.io](https://eraser.io/) para la creación y edición del diagrama UML.
 
 ---
+##Autor
+**Nombre del Autor:** -Juan Sebastian Beron Lozada.
+**Contacto: -juanseberon11@gmail.com.
 
 ## Requisitos Previos
 
